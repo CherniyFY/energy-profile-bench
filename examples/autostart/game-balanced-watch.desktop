@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Balanced power profile for selected games
+Comment=Switch to the balanced power profile while selected games run
+Exec=/usr/bin/python3 /PATH/TO/game-balanced-watch.py
+X-GNOME-Autostart-enabled=true
+NoDisplay=true
